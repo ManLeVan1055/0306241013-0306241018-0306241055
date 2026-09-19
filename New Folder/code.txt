@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 Hello World
 Xin chao Nguyen Hoang Vu Duy
+=======
+Xin chao
+Xin chao Nguyen Hoang Vu Duy
+Xin chao Vo thi thuy duong
+Xin chao le van man
+>>>>>>> main
